@@ -1,0 +1,17 @@
+#head{
+    color:green;
+    background-color:red;
+    margin: 0 auto;
+    height: 50px;
+    width: 300px;
+    font-weight: 900;
+    text-align: center;
+    border: 5px solid yellow;
+}
+.text{
+    width: 90%;
+    background-color: darkgray;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 20px;
+}
